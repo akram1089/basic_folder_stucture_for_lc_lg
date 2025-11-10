@@ -1,0 +1,1 @@
+# basic_folder_stucture_for_lc_lg
